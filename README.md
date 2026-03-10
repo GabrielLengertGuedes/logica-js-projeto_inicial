@@ -47,15 +47,15 @@ logica-js-projeto_inicial/
 
 Clone ou baixe este repositório
 
-Abra o arquivo index.html no navegador
+Abra o arquivo `index.html` no navegador
 
 Ou utilize a extensão Live Server no VS Code para rodar o projeto localmente.
 
-Objetivo do projeto
+## Objetivo do projeto
 
 Praticar conceitos fundamentais de JavaScript aplicado ao desenvolvimento web, utilizando lógica de programação e interação com o usuário para criar um jogo simples no navegador.
 
-Autor
+## Autor
 
 Gabriel Lengert Guedes
 
